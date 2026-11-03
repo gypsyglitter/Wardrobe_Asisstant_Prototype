@@ -72,9 +72,12 @@ Complete as a prototype for my assessment.
 
 ## Acknowledgements
 * Tab layout based on the [Bro Code Tkinter tabs tutorial](https://www.youtube.com/watch?v=4bMU1xAolSg).
+* Help for formatting themed widgets (`ttk.Style`, notebook tabs, combobox) from the [Python documentation: tkinter.ttk, Tk themed widgets](https://docs.python.org/3/library/tkinter.ttk.html).
+* Clearing the previous outfit with `winfo_children()` and `destroy()` follows Elder's tutorial, [Delete frame children widgets - Python Tkinter GUI tutorial #50](https://www.youtube.com/watch?v=A6m7TmjuNzw).
+* Ideas for the pink colour scheme and applying colours across the app come from NeuralNine's video, [Color schemes for Tkinter Python applications](https://www.youtube.com/watch?v=hOE4KPToIuY).
+* Understanding hex colour strings was supported by the [Hex to String Converter Online](https://www.hextostring.com/).
 * The text-colour brightness formula follows the W3C method described in Shanley's article, [Mixing Colours of Equal Luminance, Part 2](https://medium.com/sketch-app-sources/mixing-colours-of-equal-luminance-part-2-3e10c07c947c).
-* Setup guidance from [PyCharm Help](https://www.jetbrains.com/help/pycharm/getting-started.html).
-* Generative AI (Claude) was used for proofreading my written reflection and debugging help
-
+* Learning PyCharm and setting up my environment: Rohowsky's video, [PyCharm tutorial | Introduction to PyCharm | Basics in 10 minutes](https://www.youtube.com/watch?v=HHcZbXsZtm0), and [PyCharm Help](https://www.jetbrains.com/help/pycharm/getting-started.html).
+* Generative AI (Claude) was used for proofreading my written reflection and debugging help. This is declared in my reflection.
 ## Contact
 Created by Gypsy Gilbert (25875079), University of Technology Sydney.
